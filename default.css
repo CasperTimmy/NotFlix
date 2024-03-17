@@ -2281,3 +2281,6 @@ div:not(.paperList) .listItem {
 .mdl-spinner__layer.mdl-spinner__layer-4.mdl-spinner__layer-4-active {
   border-color: var(--accent);
 }
+
+/* logo */
+.adminDrawerLogo img { content: url(https://cdn.discordapp.com/attachments/1117537548852543529/1218798866875289640/notflix.png) !important; } imgLogoIcon { content: url(https://cdn.discordapp.com/attachments/1117537548852543529/1218798866875289640/notflix.png) !important; } .pageTitleWithLogo { background-image: url(https://cdn.discordapp.com/attachments/1117537548852543529/1218798866875289640/notflix.png) !important; } 
